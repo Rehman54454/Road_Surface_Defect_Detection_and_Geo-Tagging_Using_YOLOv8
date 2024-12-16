@@ -46,9 +46,7 @@ You can download the dataset used to train the YOLOv8 model from here.
 
 **Set Up GPS Input:** Ensure GPS hardware is configured and connected via the serial port.
 
-**Run the Script:** Execute the main Python script:
-
-python road_defect_detection.py
+**Run the Script:** Execute the main Python script: main.py
 
 The system will:
 Detect and classify road defects.
