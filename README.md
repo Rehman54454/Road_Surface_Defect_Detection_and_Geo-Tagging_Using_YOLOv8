@@ -10,13 +10,21 @@ This project demonstrates real-time road surface defect detection and classifica
 
 # **YOLOv8 Model:**
 The YOLOv8 model is a state-of-the-art object detection framework. In this project, a custom-trained YOLOv8 model is used to classify road defects such as:
+
 **Alligator Cracks**
+
 **Edge Cracks**
+
 **Longitudinal Cracks**
+
 **Patching**
+
 **Potholes**
+
 **Rutting**
+
 **Traverse Cracks**
+
 The model achieves high accuracy and precision for real-time road defect detection.
 
 # **Geo-Tagging and Mapping:**
