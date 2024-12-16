@@ -40,7 +40,7 @@ pip install ultralytics opencv-python folium pandas numpy tqdm
 You can download the dataset used to train the YOLOv8 model from [here](https://universe.roboflow.com/baka-1ravj/road-damage-det)
 
 # **How to Run:**
-**Download the YOLOv8 Model Weights:** Download the trained YOLOv8 model weights file Model.pt from [here](https://example.com/dataset)
+**Download the YOLOv8 Model Weights:** Download the trained YOLOv8 model weights file Model.pt from [here](https://github.com/Rehman54454/Road_Surface_Defect_Detection_and_Geo-Tagging_Using_YOLOv8/blob/main/MODEL.pt)
 
 **Prepare the Input Video:** Replace the video path in the code with the path to your input video file.
 
